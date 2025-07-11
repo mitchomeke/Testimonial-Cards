@@ -15,3 +15,10 @@
     font-weight: normal;
     font-style: normal;
 }
+
+.image1 {
+    margin-right: 150px;
+    border-radius: 50%;
+    margin-top: -40px;
+    object-fit: cover;
+}
