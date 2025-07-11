@@ -1,0 +1,17 @@
+.rectangle1 {
+    width: 330px ;
+    height: 205px;
+    background-color: black ;
+    border: 13px;
+    color: black;
+    border-radius: 13px;
+    margin-top: 90px;
+    margin-left: 40px;
+}
+
+.body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
